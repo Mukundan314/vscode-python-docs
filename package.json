@@ -1,0 +1,41 @@
+{
+    "name": "python-docs",
+    "displayName": "Python Docs",
+    "description": "open the offical python docs",
+    "version": "0.7.1",
+    "publisher": "Mukundan",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mukundan314/vscode-python-docs"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [
+        "onCommand:extension.openPythonDocs"
+    ],
+    "main": "./out/src/extension",
+    "contributes": {
+        "commands": [
+            {
+                "command": "extension.openPythonDocs",
+                "title": "Open Python Docs"
+            }
+        ]
+    },
+    "scripts": {
+        "vscode:prepublish": "npm run compile",
+        "compile": "tsc -p ./",
+        "watch": "tsc -watch -p ./",
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "npm run compile && node ./node_modules/vscode/bin/test"
+    },
+    "devDependencies": {
+        "typescript": "^1.8.5",
+        "vscode": "^0.11.0"
+    }
+}
