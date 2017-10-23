@@ -2,9 +2,10 @@
     "name": "python-docs",
     "displayName": "Python Docs",
     "description": "open the offical python docs",
-    "version": "0.7.1",
+    "version": "0.7.5",
     "publisher": "Mukundan",
     "license": "MIT",
+    "icon": "py.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Mukundan314/vscode-python-docs"
