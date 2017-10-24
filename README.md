@@ -4,7 +4,8 @@ opens the offical python docs
 
 ## Features
 
-can open any version of python  in docs
+1. can open any version of python in docs
+1. It is opened in a tab inside vscode
 
 ## Release Notes
 
