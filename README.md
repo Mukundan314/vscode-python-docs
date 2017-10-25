@@ -9,10 +9,14 @@ opens the offical python docs
 
 ## Release Notes
 
-## 0.71
+### 0.7.2
+
+Added icon
+
+### 0.7.1
 
 Changed readme
 
-### 0.70
+### 0.7.0
 
 Initial release of python docs
