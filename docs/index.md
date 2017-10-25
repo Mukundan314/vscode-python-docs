@@ -1,3 +1,3 @@
 ## Python Docs
 
-Open the offical [python documentation in vscode](https://docs.python.org/3/)
+Open the offical [python documentation in](https://docs.python.org/3/) vscode.
