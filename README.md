@@ -1,5 +1,7 @@
 # Python Docs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mukundan314/vscode-python-docs.svg)](https://greenkeeper.io/)
+
 opens the offical python docs
 
 ## Features
