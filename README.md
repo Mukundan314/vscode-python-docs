@@ -1,11 +1,21 @@
-# Python Docs
+<h1 align="center">Python Docs</h1>
 
-opens the offical python docs
+<div align="center">
+  <strong>open the offical python docs in vscode</strong>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Mukundan.python-docs">
+    <img src="https://vsmarketplacebadge.apphb.com/installs-short/mukundan.python-docs.svg">
+  </a>
+</div>
 
 ## Features
 
-1. can open any version of python in docs
-1. It is opened in a tab inside vscode
+ - can open any version of python in docs
+ - It is opened in a tab inside vscode
 
 ## Release Notes
 
