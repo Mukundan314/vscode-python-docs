@@ -1,3 +1,5 @@
+## Do not use this extention, Use a Web Browser instead
+
 <h1 align="center">Python Docs</h1>
 
 <div align="center">
